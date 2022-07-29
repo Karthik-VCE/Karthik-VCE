@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthik-VCE&label=Profile%20views&color=129e00&style=plastic" alt="KARTHIK-VCD" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthik-VCE&label=Profile%20views&color=129e00&style=plastic" alt="KARTHIK-VCE" /> </p>
  <p align = "center"> <img src="https://github-readme-stats.vercel.app/api?username=Karthik-VCE&show_icons=true&theme=vision-friendly-dark" alt ="KARTHIK-VCE" /> </p>
